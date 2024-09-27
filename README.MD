@@ -1,61 +1,57 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate data scientist, project manager and process improvement enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working on **project**
+- 🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 diffrent factories**
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **neural networks, AI automations and advanced data visualization**
 
-- 👯 I’m looking to collaborate on **project**
+- 👯 I’m looking to collaborate on **Machine Learning, AI and automation projects**
 
-- 🤝 I’m looking for help with **project**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/realdanizilla?tab=repositories">My Portfolio</a>
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 📝 I write articles on <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/recent-activity/all/">LinkedIn</a>
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 💬 Ask me about **business analytics, data extraction, manipulation, modelling and visualization, process improvement and projects**
 
-- 💬 Ask me about **topic**
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">here</a>
 
-- 📫 How to reach me **email**
+- ⚡ Fun fact about me: I try to always be on the sweet spot below:
 
-- 📄 Know about my experiences [resdume link](resdume link)
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+</style>
 
-- ⚡ Fun fact **I think xxx**
+<div class="container">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedinprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinprofile" height="30" width="40" /></a>
-<a href="https://discord.gg/discord invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord invite" height="30" width="40" /></a>
-</p>
+<img src="My Venn.png" height="200" alt="My Venn">
 
-
-
-
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Daniel Ribeiro and I'm a passionate Data Scientist, Project Manager and Process Improvement enthusiast.</p>
-
-<p align="left">My name is Daniel Ribeiro and I'm a blend of aspiring Data Scientist, Project Manager and Process Improvement enthusiast.</p>
-
-###
+</div>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Working with data and in project environments since 2003<br>
+
+📚 Graduated Data Scientist, Lean Six Sigma Black Belt, Project Management Professional (PMP), Bachelor in Business Administration.<br>
+
+🛠 All around player: Worked in many different sectors, such as Retail, Telecom, IT, Manufacturing, Agriculture, Construction, Real State, Energy, among others. <br>
+
+🎯 Goals: Discover valuable insights using data science in project environments to improve business processes.<br>
+
+💻 Passionate about technology and data, fast learner and energetic.<br>
+
+🤝I love a good challenge as well as the opportunity to learn and help others.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
+<h2 align="left">Tech Stack</h2>
+<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, TensorFlow, Streamlit, PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -64,9 +60,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="40" alt="matplolib logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="40" alt="seaborn logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height="40" alt="streamlit logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="PowerBI logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" height="40" alt="PowerAutomate logo"  />
+  <img width="12" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935" height="40" alt="PowerApps logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="40" alt="Excel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg" height="40" alt="minitab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -83,11 +97,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
@@ -95,7 +105,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+
 </div>
 
 ###
