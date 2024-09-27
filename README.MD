@@ -26,7 +26,7 @@
 
 <div class="container">
 
-<img src="My Venn.png" height="200" alt="My Venn">
+<img src="My_Venn.png" height="200" alt="My Venn">
 
 </div>
 
