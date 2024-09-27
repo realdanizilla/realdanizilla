@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate data scientist, project manager and process improvement enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 diffrent factories**
+- 🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 different factories**
 
 - 🌱 I’m currently learning **neural networks, AI automations and advanced data visualization**
 
