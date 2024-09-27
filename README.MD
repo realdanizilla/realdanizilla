@@ -17,13 +17,6 @@
 
 - ⚡ Fun fact about me: I try to always be on the sweet spot below:
 
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
 <div class="container">
 
 <img src="My_Venn.png" height="200" alt="My Venn">
