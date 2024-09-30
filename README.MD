@@ -23,17 +23,25 @@
 
 </div>
 
+- ⚡ Another fun fact about me: my nickname comes from me having big feet since I was a teenager (size 13 US, 47 EU, 12 UK) and the release of movie Godzilla (1998).
+
+<div class="container">
+
+<img src="godzilla.jpg" height="300" alt="godzilla">
+
+</div>
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Working with data and in project environments since 2003<br>
+<p align="left">✨ Working with data, technology and in project environments since 2003<br>
 
 📚 Graduated Data Scientist, Lean Six Sigma Black Belt, Project Management Professional (PMP), Bachelor in Business Administration.<br>
 
-🛠 All around player: Worked in many different sectors, such as Retail, Telecom, IT, Manufacturing, Agriculture, Construction, Real State, Energy, among others. <br>
+🛠 Been around the block: Worked in many different sectors, such as Retail, Telecom, IT, Manufacturing, Agriculture, Construction, Real State, Energy, among others. <br>
 
-🎯 Goals: Discover valuable insights using data science in project environments to improve business processes.<br>
+🎯 Goals: Discover valuable insights using data science and technology in project environments to improve business processes.<br>
 
 💻 Passionate about technology and data, fast learner and energetic.<br>
 
@@ -42,7 +50,7 @@
 ###
 
 <h2 align="left">Tech Stack</h2>
-<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, TensorFlow, Streamlit, PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
+<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, TensorFlow, Streamlit, Beautiful Soup, Spacy, NLTK, Transformers, Keras PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
