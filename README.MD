@@ -98,6 +98,28 @@
 
 ###
 
+<h2 align="left">My Projects</h2>
+
+| Project Name                    | Short Description                                                                    | Link to Project                                                 | Programming Languages         |
+|---------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------------------------|
+| COVID19-LATAM                   | Analysis of COVID-19 vaccination in Latin America to assess its impact on case numbers and deaths.  | [COVID-19 Latam](https://github.com/realdanizilla/COVID19-LATAM)       | SQL, Tableau, Python          |
+| Interconnect                    | Predicts customer churn for a telecom company by analyzing user contracts and services.             | [Interconnect](https://github.com/realdanizilla/Interconnect)        | Python, pandas, scikit-learn  |
+| Junky-Union                     | Sentiment analysis project to classify movie reviews as positive or negative.                       | [Junky-Union](https://github.com/realdanizilla/Junky-Union)         | Python, NLTK, scikit-learn    |
+| Crazy-Taxi                      | Predicting taxi demand during rush hours using time series analysis.                                 | [Crazy-Taxi](https://github.com/realdanizilla/Crazy-Taxi)          | Python, pandas, scikit-learn  |
+| Rusty-Bargain                   | Predicting the market value of used cars using different machine learning models.                   | [Rusty-Bargain](https://github.com/realdanizilla/Rusty-Bargain)       | Python, LightGBM, XGBoost     |
+| Insurance                       | Predicting the number of insurance claims and identifying potential risks.                          | [Insurance](https://github.com/realdanizilla/Insurance)           | Python, pandas, scikit-learn  |
+| Oily-Giant                      | Analyzing the best locations for oil well development based on potential profit margins.            | [Oily Giant](https://github.com/realdanizilla/Oily-Giant)          | Python, pandas, scikit-learn, Bootstrapping  |
+| Beta-Bank                       | Predicting customer churn to improve retention strategies for a financial institution.              | [Beta-Bank](https://github.com/realdanizilla/Beta-Bank)           | Python, pandas, scikit-learn  |
+| Megaline-Classification         | Classifying users into appropriate plans based on usage patterns for a telecom provider.            | [Megaline Classification](https://github.com/realdanizilla/Megaline-Classification) | Python, pandas, scikit-learn |
+| Zuber                           | Data analysis on ride-sharing service trends and competitor evaluation.                             | [Zuber](https://github.com/realdanizilla/Zuber)               | Python, pandas                |
+| Videogames                      | Market analysis of video game platforms and genres for business insights.                           | [Videogames](https://github.com/realdanizilla/Videogames)          | Python, pandas                |
+| Vehicles                        | Predictive model for vehicle data to analyze various attributes and their impact on price.         | [Vehicles](https://github.com/realdanizilla/vehicles)            | Python, pandas, scikit-learn,streamlit  |
+| Megaline                        | Analysis of telecom user behavior to improve product offerings and customer segmentation.          | [Megaline](https://github.com/realdanizilla/Megaline)            | Python, pandas, scikit-learn  |
+| Instacart                       | Analyzing grocery shopping patterns to optimize product placements and marketing strategies.       | [Instacart](https://github.com/realdanizilla/Instacart)           | Python, pandas                |
+
+
+###
+
 <h2 align="left">Contact me</h2>
 
 ###
