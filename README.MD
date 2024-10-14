@@ -1,21 +1,39 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate data scientist, project manager and process improvement enthusiast from Brazil</h3>
 
-- 🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 different factories**
+<h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning **neural networks, AI automations and advanced data visualization**
+###
 
-- 👯 I’m looking to collaborate on **Machine Learning, AI and automation projects**
+✨ Working with **data, technology and in project environments since 2003**.<br>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/realdanizilla?tab=repositories">My Portfolio</a>
+📚 Post graduate **Data Scientist**, Lean Six Sigma **Black Belt**, **Project Management Professional** (PMP), **Bachelor in Business Administration**.<br>
 
-- 📝 I write articles on <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/recent-activity/all/">LinkedIn</a>
+🛠 **Been around the block**: Worked in many different sectors, such as Retail, Telecom, IT, Manufacturing, Agriculture, Construction, Real State, Consultancy and Energy, among others. <br>
 
-- 💬 Ask me about **business analytics, data extraction, manipulation, modelling and visualization, process improvement and projects**
+🎯 Goals: Discover valuable **insights using data science** and technology in **project environments to improve business processes**.<br>
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">here</a>
+💻 Passionate about **technology and data**, fast learner and energetic.<br>
 
-- ⚡ Fun fact about me: I try to always be on the sweet spot below:
+🤝**I love a good challenge** as well as the opportunity to learn and help others.</p>
+
+###
+
+🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 different factories**
+
+🌱 I’m currently learning **neural networks, AI automations and advanced data visualization**
+
+👯 I’m looking to collaborate on **Machine Learning, AI and automation projects**
+
+👨‍💻 All of my projects are available at <a href="https://github.com/realdanizilla?tab=repositories">My Portfolio</a>
+
+📝 I write articles on <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/recent-activity/all/">LinkedIn</a>
+
+💬 Ask me about **business analytics, data extraction, manipulation, modelling and visualization, process improvement and project management**
+
+📄 Know about my experiences <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">here</a>
+
+⚡ Fun fact about me: I try to always be on the sweet spot below:
 
 <div class="container">
 
@@ -23,7 +41,7 @@
 
 </div>
 
-- ⚡ Another fun fact about me: my nickname comes from me having big feet since I was a teenager (size 13 US, 47 EU, 12 UK) and the release of movie Godzilla (1998).
+⚡ Another fun fact about me: my nickname comes from me having big feet since I was a teenager (size 13 US, 47 EU, 12 UK) and the release of movie Godzilla (1998).
 
 <div class="container">
 
@@ -31,26 +49,10 @@
 
 </div>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Working with data, technology and in project environments since 2003<br>
-
-📚 Graduated Data Scientist, Lean Six Sigma Black Belt, Project Management Professional (PMP), Bachelor in Business Administration.<br>
-
-🛠 Been around the block: Worked in many different sectors, such as Retail, Telecom, IT, Manufacturing, Agriculture, Construction, Real State, Energy, among others. <br>
-
-🎯 Goals: Discover valuable insights using data science and technology in project environments to improve business processes.<br>
-
-💻 Passionate about technology and data, fast learner and energetic.<br>
-
-🤝I love a good challenge as well as the opportunity to learn and help others.</p>
-
 ###
 
 <h2 align="left">Tech Stack</h2>
-<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, TensorFlow, Streamlit, Beautiful Soup, Spacy, NLTK, Transformers, Keras PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
+<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, TensorFlow, Streamlit, Beautiful Soup, Spacy, NLTK, Transformers, Keras, PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
