@@ -19,19 +19,19 @@
 
 ###
 
-🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 different factories**
+🔭 I’m currently working on **a clustering project to manage over 5.000 SKUs with over 200 features each from 10 different factories.**
 
-🌱 I’m currently learning **neural networks, AI automations and advanced data visualization**
+🌱 I’m currently learning **neural networks, AI automations and advanced data visualization.**
 
-👯 I’m looking to collaborate on **Machine Learning, AI and automation projects**
+👯 I’m looking to collaborate on **Machine Learning, AI and automation projects.**
 
-👨‍💻 All of my projects are available at <a href="https://github.com/realdanizilla?tab=repositories">My Portfolio</a>
+👨‍💻 All of my projects are available at <a href="https://github.com/realdanizilla?tab=repositories">My Portfolio.</a>
 
-📝 I write articles on <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/recent-activity/all/">LinkedIn</a>
+📝 I write articles on <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/recent-activity/all/">LinkedIn.</a>
 
-💬 Ask me about **business analytics, data extraction, manipulation, modelling and visualization, process improvement and project management**
+💬 Ask me about **business analytics, data extraction, manipulation, modelling and visualization, process improvement and project management.**
 
-📄 Know about my experiences <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">here</a>
+📄 Know about my experiences <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">here.</a>
 
 ⚡ Fun fact about me: I try to always be on the sweet spot below:
 
@@ -52,7 +52,7 @@
 ###
 
 <h2 align="left">Tech Stack</h2>
-<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, TensorFlow, Streamlit, Beautiful Soup, Spacy, NLTK, Transformers, Keras, PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML </p>
+<p align="left">Python, Jupyter, Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, PyTorch, TensorFlow, Streamlit, Beautiful Soup, Spacy, NLTK, Transformers, Keras, PowerBI, Power Automate, Power Apps, Excel, Minitab, VSCode, MySQL, SQL Server, Anaconda, CSS, HTML. </p>
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -100,6 +100,25 @@
 
 ###
 
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-ribeiro-pmp-a018a413/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5511976686865">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:danizilla@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+</div>
+
+###
+
 <h2 align="left">My Projects</h2>
 
 | Project Name                    | Short Description                                                                    | Link to Project                                                 | Programming Languages         |
@@ -120,17 +139,3 @@
 | Instacart                       | Analyzing grocery shopping patterns to optimize product placements and marketing strategies.       | [Instacart](https://github.com/realdanizilla/Instacart)           | Python, pandas, numpy, matplotlib                |
 
 
-###
-
-<h2 align="left">Contact me</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-
-</div>
-
-###
