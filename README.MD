@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate data/AI enthusiast, project manager and process improvement enthusiast from Brazil</h3>
+<h3 align="center">A passionate data/AI enthusiast, project manager and process improvement specialist from Brazil</h3>
 
 <h2 align="left">About me</h2>
 
